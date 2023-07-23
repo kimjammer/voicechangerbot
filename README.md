@@ -1,4 +1,8 @@
-# This is bad software!
+# Voice Changer Bot (AutoAICover)
+
+![screenshot](screenshot.png)
+
+## This is bad software!
 
 SomeFolder
  - Retrieval-based-Voice-Conversion-WebUI
