@@ -1,0 +1,7 @@
+{
+  "token": "YourDiscordBotTokenHere",
+  "clientId": "applicationIDofTheBot",
+  "guildId": "serverIDofTheTestServer",
+  "condaEnvName": "nameOfCondaEnvironment",
+  "condaLocation": "/absolute/path/to/conda/installation"
+}
